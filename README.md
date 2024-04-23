@@ -2,7 +2,7 @@
 Directory/File  busting tool written in Rust
 
 ```
-root@shell~ $cargo run https://nmap.org directory-list-lowercase-2.3-medium.txt 5
+root@shell~ $cargo run https://nmap.org directory-list-lowercase-2.3-medium.txt 5 http://localhost:8000
 ```
 
 ```
